@@ -1,40 +1,52 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=120&section=header&text=Mahmut%20Efe%20Türkol&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Backend%20%26%20Fullstack%20Developer&descAlignY=85&descSize=14&descColor=8b949e)
+<div align="center">
 
-4th-year Computer Engineering student at İnönü University. I build web applications and AI-powered tools. Co-Lead at IEEE İnönü and Google Developers Student Club.
+# Mahmut Efe Türkol
 
-**Open to internship and junior developer opportunities.**
+**Backend Developer · AI & LLM Engineering**
 
-<br>
+4th-year Computer Engineering student at İnönü University.
+I build scalable backends and AI-powered tools —
+RAG pipelines, LLM integrations, NLP systems, and fullstack web apps.
 
-**Tech Stack**
+Former Co-Lead @ IEEE İnönü · Former Co-Lead @ Google Developers Student Club
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,kotlin,react,nodejs,postgres,supabase,git,vercel&theme=dark)](https://skillicons.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-efeturkol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/efeturkol)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmutefeturkol@hotmail.com)
+![Open to Work](https://img.shields.io/badge/Open%20to-Internship%20%26%20Junior%20Roles-22c55e?style=flat-square)
 
-<br>
+</div>
 
-**Projects**
+---
 
-**[Gezio](https://gezio-delta.vercel.app)** — Personalized Turkey travel planner with interactive maps and route optimization.
-`React` `Supabase` `Leaflet.js`
+### 🛠 Tech Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=python,js,java,kotlin,react,nodejs,postgres,supabase,git,vercel&perline=10)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 🚀 Projects
+
+**[İnşirah](https://apps.apple.com/app/id6790176500)** — Islamic utility app with prayer times, Quran reader, and dhikr counter. Built and shipped solo.
+`TypeScript` `Supabase` `Vercel`
+
+**Microsoft RAG Assistant** — BDDK regulatory compliance Q&A assistant built with RAG during Microsoft Cloud Summer School.
+`Python` `RAG` `Azure` `LangChain`
 
 **[FarmaIQ](https://github.com/efeturkol/farmaiq)** — Adverse drug reaction detection from Turkish social media using fine-tuned BERTurk.
-`Python` `NLP` `BERTurk`
+`Python` `BERTurk` `NLP` `Streamlit`
 
-**Microsoft RAG Assistant** — BDDK regulatory compliance Q&A assistant built during Microsoft Cloud Summer School.
-`Python` `RAG` `Azure`
+**[Gezio](https://gezio-delta.vercel.app)** — Personalized Turkey travel planner with interactive maps, GPS visit detection, and route optimization.
+`React` `Supabase` `Leaflet.js` `Vercel`
 
-<br>
+---
 
-**Stats**
+### 📊 Stats
 
-<p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=efeturkol&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,prs,issues&bg_color=0d1117" />
-  <img height="155" src="https://streak-stats.demolab.com?user=efeturkol&theme=github-dark&hide_border=true&background=0d1117" />
-</p>
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-efeturkol-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/efeturkol)
-[![Email](https://img.shields.io/badge/Email-mahmutefeturkol@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook)](mailto:mahmutefeturkol@hotmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=80&section=footer)
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=efeturkol&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,prs,issues" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeturkol&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
