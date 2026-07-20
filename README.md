@@ -9,7 +9,7 @@ I build scalable backends and AI-powered tools —
 RAG pipelines, LLM integrations, NLP systems, and fullstack web apps.
 
 🎓 İnönü University · Computer Engineering
-☁️ Microsoft Cloud Summer School Intern *(ongoing)*
+☁️ Microsoft Cloud Summer School Intern
 👥 Former Co-Lead @ IEEE İnönü · Former Co-Lead @ Google Developers Student Club
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-efeturkol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/efeturkol)
