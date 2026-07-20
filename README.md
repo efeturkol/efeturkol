@@ -2,17 +2,19 @@
 
 # Mahmut Efe Türkol
 
-**Backend Developer · AI & LLM Engineering**
+**Backend Developer | AI & LLM Integration**
 
 4th-year Computer Engineering student at İnönü University.
 I build scalable backends and AI-powered tools —
 RAG pipelines, LLM integrations, NLP systems, and fullstack web apps.
 
-Former Co-Lead @ IEEE İnönü · Former Co-Lead @ Google Developers Student Club
+🎓 İnönü University · Computer Engineering
+☁️ Microsoft Cloud Summer School Intern *(ongoing)*
+👥 Former Co-Lead @ IEEE İnönü · Former Co-Lead @ Google Developers Student Club
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-efeturkol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/efeturkol)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmutefeturkol@hotmail.com)
-![Open to Work](https://img.shields.io/badge/Open%20to-Internship%20%26%20Junior%20Roles-22c55e?style=flat-square)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Internship%20%26%20Junior%20Roles-22c55e?style=flat-square)](mailto:mahmutefeturkol@hotmail.com)
 
 </div>
 
@@ -22,7 +24,7 @@ Former Co-Lead @ IEEE İnönü · Former Co-Lead @ Google Developers Student Clu
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,js,java,kotlin,react,nodejs,postgres,supabase,git,vercel&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,js,java,react,nodejs,postgres,supabase,git,vercel&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -62,6 +64,7 @@ Former Co-Lead @ IEEE İnönü · Former Co-Lead @ Google Developers Student Clu
 ### 📊 Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=efeturkol&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,prs,issues" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeturkol&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=efeturkol&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+
 </div>
