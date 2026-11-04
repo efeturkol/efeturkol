@@ -4,11 +4,11 @@
 
 **Backend Developer | AI & LLM Integration**
 
-4th-year Computer Engineering student at İnönü University.
+4th-year Computer Engineering student at Marmara University.
 I build scalable backends and AI-powered tools —
 RAG pipelines, LLM integrations, NLP systems, and fullstack web apps.
 
-🎓 İnönü University · Computer Engineering
+🎓 Marmara University · Computer Engineering
 ☁️ Microsoft Cloud Summer School Intern
 👥 Former Co-Lead @ IEEE İnönü · Former Co-Lead @ Google Developers Student Club
 
